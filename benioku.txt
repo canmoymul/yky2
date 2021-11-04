@@ -1,1 +1,2 @@
 Bizim ilk git projemiz.
+İkinci değişiklik
